@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>👋 Hi, I’m Maksym, a full-stack developer focused on building innovative tech solutions!<br><br>🔭 Currently working on: A next-gen freelance platform for top tech talent.<br><br>👯 Looking to collaborate on: Projects with real-world impact.<br><br>🤝 Need help with: Backend optimizations and API integrations.<br><br>🌱 Learning: Advanced GraphQL and new JavaScript tools.<br><br>💬 Ask me about: Full-stack dev, microservices, and JavaScript frameworks.
+<br>👋 Hi, I’m Maksym, a full-stack developer focused on building innovative tech solutions!<br><br>🔭 Working on a next-gen freelance platform for top tech talent.<br><br>👯 Looking to collaborate on projects with real-world impact.<br>💬 Ask me about Full-stack dev, microservices, and JavaScript frameworks.
 
 
 ## 🌐 Socials:
