@@ -9,7 +9,7 @@
 [**[Work With Me](https://www.linkedin.com/in/maksym-krapivnoy-a50870164/)**]
 
 # 💫 About Me:
-<br>👋 Hi, I’m Maksym, a full-stack developer focused on building innovative tech solutions!<br><br>🔭 Working on a next-gen freelance platform for top tech talent.<br><br>👯 Looking to collaborate on projects with real-world impact.<br>💬 Ask me about Full-stack dev, microservices, and JavaScript frameworks.
+<br>👋 Hi, I’m Maksym, a full-stack developer focused on building innovative tech solutions!<br><br>🔭 Working on a next-gen freelance platform for top tech talent.<br><br>👯 Looking to collaborate on projects with real-world impact.<br><br>💬 Ask me about Full-stack dev, microservices, and JavaScript frameworks.<br>
 
 
 ## 🌐 Socials:
