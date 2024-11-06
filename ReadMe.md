@@ -1,3 +1,13 @@
+<a href="https://www.linkedin.com/in/maksym-krapivnoy-a50870164/" target="_blank"><img width="100%" src="./hero4.png"></a>
+[**[Hire A Talent](https://tally.so/r/3lldZB)**]
+[**[Request A Quote](https://tally.so/r/3lldZB)**]
+[**[Find A Jobs](https://tally.so/r/3j9Qza)**] \_\_\_
+[**[For Companies](https://tally.so/r/3lldZB)**]
+[**[For Developers](https://tally.so/r/3j9Qza)**]
+
+[**[Chat With Me](https://www.linkedin.com/in/maksym-krapivnoy-a50870164/)**]
+[**[Work With Me](https://www.linkedin.com/in/maksym-krapivnoy-a50870164/)**]
+
 # 💫 About Me:
 <br>👋 Hi, I’m Maksym, a full-stack developer focused on building innovative tech solutions!<br><br>🔭 Working on a next-gen freelance platform for top tech talent.<br><br>👯 Looking to collaborate on projects with real-world impact.<br>💬 Ask me about Full-stack dev, microservices, and JavaScript frameworks.
 
